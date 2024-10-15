@@ -1,0 +1,86 @@
+﻿@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<body>
+    <!-- Modal Pesquisa Início -->
+    <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-fullscreen">
+            <div class="modal-content rounded-0">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Procurar por palavra-chave</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body d-flex align-items-center">
+                    <div class="input-group w-75 mx-auto d-flex">
+                        <input type="search" class="form-control p-3" placeholder="Pesquise por..." aria-describedby="search-icon-1">
+                        <span id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Pesquisa Fim -->
+    <!-- Cadastro Início -->
+    <div class="container-fluid py-5">
+        <div class="container py-5" style="max-width: 700px;">
+            <h1 class="text-center mt-5 mb-5 pt-5">Cadastro</h1>
+            <form action="#">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <i class="fas fa-user"></i>
+                        <label class="form-label my-3">Primeiro Nome<sup>*</sup></label>
+                        <input type="text" style="height: 30px;" class="form-control" placeholder="Digite seu primeiro nome" required>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label my-3">Sobrenome<sup>*</sup></label>
+                        <input type="text" style="height: 30px;" class="form-control" placeholder="Digite seu sobrenome" required>
+                    </div>
+                    <div class="col-md-12">
+                        <i class="fas fa-envelope"></i>
+                        <label class="form-label my-3">E-mail<sup>*</sup></label>
+                        <input type="email" style="height: 30px;" class="form-control" placeholder="Digite seu e-mail" required>
+                    </div>
+                    <div class="col-md-12">
+                        <i class="fas fa-id-card"></i>
+                        <label class="form-label my-3">CPF<sup>*</sup></label>
+                        <input type="text" style="height: 30px;" class="form-control" placeholder="Digite seu CPF" required>
+                    </div>
+                    <div class="col-md-12">
+                        <i class="fas fa-phone"></i>
+                        <label class="form-label my-3">Telefone para contato<sup>*</sup></label>
+                        <input type="tel" style="height: 30px;" class="form-control" placeholder="Digite seu telefone" required>
+                    </div>
+                    <div class="col-md-12">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <label class="form-label my-3">CEP<sup>*</sup></label>
+                        <input type="text" style="height: 30px;" class="form-control" placeholder="Digite seu CEP" required>
+                    </div>
+                    <div class="col-md-12">
+                        <label class="form-label my-3">Endereço<sup>*</sup></label>
+                        <input type="text" style="height: 30px;" class="form-control" placeholder="Digite seu endereço" required>
+                    </div>
+                    <div class="col-md-12">
+                        <label class="form-label my-3">Cidade<sup>*</sup></label>
+                        <input type="text" style="height: 30px;" class="form-control" placeholder="Digite sua cidade" required>
+                    </div>
+                    <div class="col-md-12">
+                        <i class="fas fa-key"></i>
+                        <label class="form-label my-3">Senha<sup>*</sup></label>
+                        <input type="password" style="height: 30px;" class="form-control" placeholder="Digite sua senha" required>
+                    </div>
+                    <div class="col-md-12">
+                        <label class="form-label my-3">Confirme sua senha<sup>*</sup></label>
+                        <input type="password" style="height: 30px;" class="form-control" placeholder="Confirme sua senha" required>
+                    </div>
+                    <div class="col-12 text-center pt-3">
+                        <button type="submit" class="btn btn-outline-primary w-50 mb-2">Concluir cadastro</button>
+                        <h5>ou</h5>
+                        <a class="btn btn-outline-secondary w-50" asp-area="" asp-controller="Home" asp-action="Login">Voltar</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- Cadastro Fim -->
+</body>

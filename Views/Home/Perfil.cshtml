@@ -1,0 +1,138 @@
+﻿@{
+    ViewData["Title"] = "#IdUsuario#";
+}
+
+<body>
+    <!-- Modal Pesquisa Início -->
+    <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-fullscreen">
+            <div class="modal-content rounded-0">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Procurar por palavra-chave</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body d-flex align-items-center">
+                    <div class="input-group w-75 mx-auto d-flex">
+                        <input type="search" class="form-control p-3" placeholder="Pesquise por..." aria-describedby="search-icon-1">
+                        <span id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Pesquisa Fim -->
+    <!-- Perfil do Usuário Início -->
+    <div class="profile-header">
+        <img src="https://via.placeholder.com/150" alt="Foto de Perfil">
+        <h1>Nome do Usuário</h1>
+        <p>email@exemplo.com.br</p>
+    </div>
+    <div class="container">
+        <div class="row profile-content">
+            <!-- Menu vertical -->
+            <div class="col-md-3 profile-sidebar">
+                <h2>Menu</h2>
+                <ul class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link active" id="v-pills-info-tab" data-bs-toggle="pill" href="#v-pills-info" role="tab" aria-controls="v-pills-info" aria-selected="true">Informações Pessoais</a>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link" id="v-pills-config-tab" data-bs-toggle="pill" href="#v-pills-config" role="tab" aria-controls="v-pills-config" aria-selected="false">Configurações da Conta</a>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link" id="v-pills-hist-tab" data-bs-toggle="pill" href="#v-pills-hist" role="tab" aria-controls="v-pills-hist" aria-selected="false">Histórico de Compras</a>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link" id="v-pills-payment-tab" data-bs-toggle="pill" href="#v-pills-payment" role="tab" aria-controls="v-pills-payment" aria-selected="false">Dados de Pagamento</a>
+                    </li>
+                    <li style="margin: 50% 0 50% 0;"></li>
+                    <li>
+                        <a class="nav-link text-warning ms-1" asp-area="" asp-controller="Home" asp-action="Login"><i class="fas fa-door-open pe-2"></i>Sair</a>
+                    </li>
+                    <a class="nav-link text-danger ms-2" asp-area="" asp-controller="Home" asp-action="Login"><i class="fas fa-window-close pe-2"></i>Desativar conta</a>
+                </ul>
+            </div>
+
+            <!-- Conteúdo dos tabs -->
+            <div class="col-md-9">
+                <div class="tab-content" id="v-pills-tabContent">
+
+                    <!-- Informações Pessoais -->
+                    <div class="tab-pane fade show active profile-main w-100 ms-5" id="v-pills-info" role="tabpanel" aria-labelledby="v-pills-info-tab">
+                        <h3>Informações Pessoais</h3>
+                        <p>Aqui você pode editar suas informações pessoais.</p>
+                        <div class="account-settings">
+                            <table>
+                                <tr>
+                                    <td class="bg-light w-25 rounded">Nome Completo</td>
+                                    <td class="w-75 rounded">Nome Exemplo Teste</td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light w-25 rounded">CPF</td>
+                                    <td class="w-75 rounded"></td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light w-25 rounded">Celular</td>
+                                    <td class="w-75 rounded"></td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light w-25 rounded">CEP</td>
+                                    <td class="w-75 rounded"></td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light w-25 rounded">Logradouro</td>
+                                    <td class="w-75 rounded"></td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light w-25 rounded">Cidade</td>
+                                    <td class="w-75 rounded"></td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light w-25 rounded">Estado</td>
+                                    <td class="w-75 rounded"></td>
+                                </tr>
+                            </table>
+                        </div>
+                        <button type="submit" class="btn btn-secondary rounded text-white mt-2 w-100">Alterar</button>
+                    </div>
+
+                    <!-- Configurações da Conta -->
+                    <div class="tab-pane fade profile-main w-100 ms-5" id="v-pills-config" role="tabpanel" aria-labelledby="v-pills-config-tab">
+                        <h3>Configurações da Conta</h3>
+                        <p>Altere suas preferências de conta e privacidade.</p>
+                        <div class="account-settings">
+                            <table>
+                                <tr>
+                                    <th class="rounded">Configuração</th>
+                                    <th class="rounded">Opção</th>
+                                </tr>
+                                <tr>
+                                    <td class="rounded">Alterar Senha</td>
+                                    <td class="rounded"><a href="#">Clique aqui</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="rounded">Alterar E-mail</td>
+                                    <td class="rounded"><a href="#">Clique aqui</a></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Histórico de Compras -->
+                    <div class="tab-pane fade profile-main w-100 ms-5" id="v-pills-hist" role="tabpanel" aria-labelledby="v-pills-hist-tab">
+                        <h3>Histórico de Compras</h3>
+                        <p>Veja o histórico de todas as suas compras.</p>
+                    </div>
+
+                    <!-- Dados de Pagamento -->
+                    <div class="tab-pane fade profile-main w-100 ms-5" id="v-pills-payment" role="tabpanel" aria-labelledby="v-pills-payment-tab">
+                        <h3>Dados de Pagamento</h3>
+                        <p>Atualize ou remova seus métodos de pagamento.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-primary border-3 border-primary rounded-circle back-to-top"><i class="fa fa-arrow-up"></i></a>
+</body>

@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<body>
+    <!-- Modal Pesquisa Início -->
+    <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-fullscreen">
+            <div class="modal-content rounded-0">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Procurar por palavra-chave</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body d-flex align-items-center">
+                    <div class="input-group w-75 mx-auto d-flex">
+                        <input type="search" class="form-control p-3" placeholder="Pesquise por..." aria-describedby="search-icon-1">
+                        <span id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Pesquisa Fim -->
+    <!-- Login Início -->
+    <div class="container-fluid py-5">
+        <div class="container py-5" style="max-width: 600px; margin-top: 4rem;">
+            <h1 class="text-center mt-3">Bem-vindo!</h1>
+            <form action="#" class="login_form_Layout">
+                <div class="mb-3">
+                    <label class="form-label">E-mail:</label>
+                    <input type="email" class="form-control" placeholder="Digite seu e-mail" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Senha:</label>
+                    <input type="password" class="form-control" placeholder="Digite sua senha" required>
+                </div>
+                <div class="text-center pt-3">
+                    <button type="submit" class="btn btn-outline-primary w-50 mb-3">Entrar</button>
+                    <h5>ou</h5>
+                    <a class="btn btn-outline-secondary w-50 mt-1" asp-area="" asp-controller="Home" asp-action="Cadastro">Cadastre-se</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- Login Fim -->
+</body>

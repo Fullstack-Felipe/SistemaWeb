@@ -1,0 +1,56 @@
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\bin\Debug\net8.0\appsettings.json
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\bin\Debug\net8.0\SiteWebV.staticwebassets.runtime.json
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\bin\Debug\net8.0\SiteWebV.exe
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\bin\Debug\net8.0\SiteWebV.deps.json
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\bin\Debug\net8.0\SiteWebV.runtimeconfig.json
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\bin\Debug\net8.0\SiteWebV.dll
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\bin\Debug\net8.0\SiteWebV.pdb
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\SiteWebV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\SiteWebV.AssemblyInfoInputs.cache
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\SiteWebV.AssemblyInfo.cs
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\SiteWebV.csproj.CoreCompileInputs.cache
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\SiteWebV.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\SiteWebV.RazorAssemblyInfo.cache
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\SiteWebV.RazorAssemblyInfo.cs
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\staticwebassets\msbuild.SiteWebV.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\staticwebassets\msbuild.build.SiteWebV.props
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiteWebV.props
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiteWebV.props
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\scopedcss\bundle\SiteWebV.styles.css
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\SiteWebV.dll
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\refint\SiteWebV.dll
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\SiteWebV.pdb
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\SiteWebV.genruntimeconfig.cache
+C:\Users\Elaine e Maycon\source\repos\SiteWebV\SiteWebV\obj\Debug\net8.0\ref\SiteWebV.dll
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\bin\Debug\net8.0\appsettings.json
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\bin\Debug\net8.0\SiteWebV.staticwebassets.runtime.json
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\bin\Debug\net8.0\SiteWebV.exe
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\bin\Debug\net8.0\SiteWebV.deps.json
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\bin\Debug\net8.0\SiteWebV.runtimeconfig.json
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\bin\Debug\net8.0\SiteWebV.dll
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\bin\Debug\net8.0\SiteWebV.pdb
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\SiteWebV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\SiteWebV.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\SiteWebV.AssemblyInfo.cs
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\SiteWebV.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\SiteWebV.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\SiteWebV.RazorAssemblyInfo.cache
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\SiteWebV.RazorAssemblyInfo.cs
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\staticwebassets\msbuild.SiteWebV.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\staticwebassets\msbuild.build.SiteWebV.props
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiteWebV.props
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiteWebV.props
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\scopedcss\bundle\SiteWebV.styles.css
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\SiteWebV.dll
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\refint\SiteWebV.dll
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\SiteWebV.pdb
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\SiteWebV.genruntimeconfig.cache
+C:\Users\felip\OneDrive - UNIP\PIM IV\SistemaWeb\SiteWebV\obj\Debug\net8.0\ref\SiteWebV.dll

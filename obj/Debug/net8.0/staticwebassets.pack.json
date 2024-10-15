@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\img\\imghere.png",
+      "PackagePath": "staticwebassets\\img\\imghere.png"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\felip\\OneDrive - UNIP\\PIM IV\\SistemaWeb\\SiteWebV\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SiteWebV.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SiteWebV.props",
+      "PackagePath": "build\\SiteWebV.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SiteWebV.props",
+      "PackagePath": "buildMultiTargeting\\SiteWebV.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SiteWebV.props",
+      "PackagePath": "buildTransitive\\SiteWebV.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
